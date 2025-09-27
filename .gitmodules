@@ -1,0 +1,3 @@
+[submodule "build/milascript"]
+	path = build/milascript
+	url = https://github.com/milapulgames/milascript.git
